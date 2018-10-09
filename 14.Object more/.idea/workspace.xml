@@ -46,6 +46,7 @@
     <session id="-1765637135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -87,7 +88,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02.Travellers Log.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="-1012">
               <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
             </state>
           </provider>
@@ -211,7 +212,7 @@
       <option name="presentableId" value="Default" />
       <updated>1538996922520</updated>
       <workItem from="1538996924130" duration="30874000" />
-      <workItem from="1539113453746" duration="285000" />
+      <workItem from="1539113453746" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="Refactored code">
       <created>1539113678393</created>
@@ -220,15 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539113678394</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Refactored code">
+      <created>1539113762459</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539113762459</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31159000" />
+    <option name="totallyTimeSpent" value="31207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1641318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -309,7 +316,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02.Travellers Log.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="-1012">
           <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
