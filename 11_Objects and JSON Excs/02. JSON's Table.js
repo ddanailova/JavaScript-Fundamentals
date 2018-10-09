@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function solve(inputArr) {
     let html = '<table>\n';
     for (let dataLine of inputArr) {
@@ -18,4 +19,26 @@ function solve(inputArr) {
 
 solve(["{\"name\":\"Pesho\",\"position\":\"Promenliva\",\"salary\":100000}",
     "{\"name\":\"Teo\",\"position\":\"Lecturer\",\"salary\":1000}",
+=======
+function solve(inputArr) {
+    let html = '<table>\n';
+    for (let dataLine of inputArr) {
+        dataLine=JSON.parse(dataLine);
+        html+=`\t<tr>\n\t\t<td>${htmlEscape(dataLine["name"])}</td>\n\t\t<td>${htmlEscape(dataLine["position"])}</td>\n\t\t<td>${+dataLine["salary"]}</td>\n`;
+        html+="\t</tr>\n"
+    }
+    console.log(html+'</table>');
+
+    function htmlEscape(str){
+        return str.replace(/&/g,'&amp;')
+            .replace(/</g,'&lt;')
+            .replace(/>/g,'&gt;')
+            .replace(/"/g,'&quot;')
+            .replace(/'/g,'&#39;');
+    };
+}
+
+solve(["{\"name\":\"Pesho\",\"position\":\"Promenliva\",\"salary\":100000}",
+    "{\"name\":\"Teo\",\"position\":\"Lecturer\",\"salary\":1000}",
+>>>>>>> 2802e337c6b0a8f5585b8bcbf1753b49210c47c3
 "{\"name\":\"Georgi\",\"position\":\"Lecturer\",\"salary\":1000}"]);
