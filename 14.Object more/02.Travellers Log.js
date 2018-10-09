@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 function solution(inputArr) {
     let travellerLog = inputArr
-        .map((input) => input.split(" ").filter(e=>e !== ""))
+        .map((input) => input.split(/\s+/).filter(e=>e !== ""))
         .reduce((acc, cur) => {
             let name = cur[0];
             let cash = cur[cur.length - 1];
@@ -24,7 +24,7 @@ function solution(inputArr) {
                         if (!acc[name][country]) {
                             acc[name][country] = [];
                         }
-                        if(!acc[name][country].includes(country)){
+                        if(!acc[name][country].includes(landmark)){
                             acc[name][country].push(landmark);
                             acc[name].money = Math.max(0, acc[name].money - (+cash));
                         }
