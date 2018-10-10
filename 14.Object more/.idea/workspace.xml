@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7130ce1c-8b48-40ff-9884-948c67af5b05" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.~lock.06.Objects-and-Assoc-Arrays-More-Exercises.docx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Travellers Log.js" beforeDir="false" afterPath="$PROJECT_DIR$/02.Travellers Log.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,20 +48,24 @@
     <session id="-1765637135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="5" />
+          <entry key="js" value="259" />
           <entry key="txt" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="5" />
+          <entry key="JavaScript" value="259" />
           <entry key="PLAIN_TEXT" value="21" />
         </counts>
       </usages-collector>
@@ -88,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02.Travellers Log.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1012">
-              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="255">
+              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -125,10 +131,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="200" />
-    <option name="y" value="77" />
-    <option name="width" value="1074" />
-    <option name="height" value="702" />
+    <option name="x" value="207" />
+    <option name="y" value="18" />
+    <option name="width" value="1278" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -136,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,7 +154,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.06.Flight Schedule.js">
+  <component name="RunManager" selected="Node.js.02.Travellers Log.js">
     <configuration name="02.Travellers Log.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="02.Travellers Log.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -193,11 +199,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.02.Travellers Log.js" />
         <item itemvalue="Node.js.06.Flight Schedule.js" />
         <item itemvalue="Node.js.05.Catalogue.js" />
         <item itemvalue="Node.js.04.rowserLogger.js" />
         <item itemvalue="Node.js.03.chool Grades.js" />
-        <item itemvalue="Node.js.02.Travellers Log.js" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +219,10 @@
       <updated>1538996922520</updated>
       <workItem from="1538996924130" duration="30874000" />
       <workItem from="1539113453746" duration="333000" />
+      <workItem from="1539150178071" duration="3196000" />
+      <workItem from="1539155005220" duration="7000" />
+      <workItem from="1539167679341" duration="37000" />
+      <workItem from="1539171711968" duration="1775000" />
     </task>
     <task id="LOCAL-00001" summary="Refactored code">
       <created>1539113678393</created>
@@ -232,18 +242,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31207000" />
+    <option name="totallyTimeSpent" value="36222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1641318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25067386" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32345015" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.393531" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -252,6 +262,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32884097" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -316,8 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02.Travellers Log.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1012">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="255">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
